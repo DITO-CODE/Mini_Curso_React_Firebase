@@ -1,8 +1,8 @@
-git clone https://github.com/DITO-CODE/Mini_Curso_React_Firebase.git curso_react_firebase
-cd curso_react_firebase
-npm install
-npm run start
-http://localhost:3000/
+git clone https://github.com/DITO-CODE/Mini_Curso_React_Firebase.git curso_react_firebase<br>
+cd curso_react_firebase<br>
+npm install<br>
+npm run start<br>
+http://localhost:3000/<br>
 
 
 Videos:
